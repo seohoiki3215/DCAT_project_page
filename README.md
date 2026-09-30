@@ -47,6 +47,7 @@ python3 -m http.server 4173 --bind 127.0.0.1
 - arXiv 버튼은 Coming soon으로 표시했습니다. 공개 URL이 확정되면 `resource-actions`의 해당 `<button disabled>`를 실제 URL을 가진 `<a>`로 바꾸고 Coming soon 표시를 제거하세요.
 - Hoigi Seo 이름은 https://seohoiki3215.github.io 로 연결됩니다.
 - Byung Hyun Lee 이름은 https://hyun1a.github.io 로 연결됩니다.
+- Se Young Chun 이름은 https://icl.snu.ac.kr 로 연결됩니다.
 - Google Fonts에서 DM Sans/Manrope를 불러옵니다. 연결이 없으면 로컬 sans-serif로 표시되며 사이트 기능은 유지됩니다.
 
 ## GitHub Pages 배포
